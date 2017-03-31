@@ -1,4 +1,6 @@
 # hello-world
-First Repo
-
 This is my first Repo.
+
+Hello everyone. First time working with repo.
+
+
